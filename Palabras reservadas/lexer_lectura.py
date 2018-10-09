@@ -7,7 +7,7 @@ t_PLUS   = r'SUM'
 t_MINUS  = r'RES'
 t_TIMES  = r'MUL'
 t_DIVIDE = r'DIV'
-t_EQUALS = r'='
+t_EQUALS = r'ASIG'
 t_NAME = r'[a-z]'
 
 def t_NEWLINE(t):
